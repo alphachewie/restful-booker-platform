@@ -17,4 +17,16 @@ public class Map {
         this.longitude = 1.2733774;
     }
 
+    public String getHotelName() {
+        return hotelName;
+    }
+
+    public double getLatitude() {
+        return latitude;
+    }
+
+    public double getLongitude() {
+        return longitude;
+    }
+
 }

@@ -1,4 +1,5 @@
 {
+    "brandingid": 0,
     "map": {
         "hotelName": "Shady meadows B&B",
         "latitude": 52.6351204,

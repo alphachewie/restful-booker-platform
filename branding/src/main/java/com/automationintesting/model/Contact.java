@@ -20,4 +20,20 @@ public class Contact {
         this.email = "fake@fakeemail.com";
     }
 
+    public String getName() {
+        return name;
+    }
+
+    public String getAddress() {
+        return address;
+    }
+
+    public String getPhone() {
+        return phone;
+    }
+
+    public String getEmail() {
+        return email;
+    }
+
 }

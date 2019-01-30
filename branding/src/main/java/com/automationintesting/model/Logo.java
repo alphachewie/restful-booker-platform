@@ -11,4 +11,8 @@ public class Logo {
         this.url = "https://www.mwtestconsultancy.co.uk/img/rbp-logo.png";
     }
 
+    public String getUrl() {
+        return url;
+    }
+
 }
